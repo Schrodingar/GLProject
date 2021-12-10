@@ -268,8 +268,7 @@
             ],
             "NTE": [
                 {
-                    "refCode": "OTH",
-                    "desc": "No Touch"
+                    "refCode": "OTH"
                 }
             ]
         },
